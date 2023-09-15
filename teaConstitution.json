@@ -1,5 +1,7 @@
 {
-  "CODEOWNERS": [
+  "codeOwners": [
     "0x4316A09e2dAd2b65756F3b1950Ea27346E50022d"
-  ]
+  ],
+  "quorum": 1,
+  "projectName": "test-project-1234"
 }
